@@ -5,10 +5,16 @@ For this project, the objective is to build an ETL pipeline using Python and Pan
   
 ## Data
 The initial dataset consists of two files: contacts.xlsx and crowdfunding.xlsx
-The contacts.xlsx file contains the contact id, name, and email.
-The crowdfunding.xlsx contains contact id and information about each crowdfuding project.
+The contacts.xlsx file contains the contact id, name, and email. The crowdfunding.xlsx contains contact id and information about each crowdfuding project.
 
-##Technologies
+Derived datasets formed from the initial datasets where campaign.csv, category.csv, contacts.csv, subcategory.csv. 
+
+
+## Technologies
 The following are the languages and tools used:
 * Python
+* Pandas
+* SQL
+* Postgres
+* QuickDBD
 
