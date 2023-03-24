@@ -12,16 +12,20 @@ The contacts.xlsx file contains the contact id, name, and email. The crowdfundin
 Derived datasets formed from the initial datasets were:
 
 
-category.csv
+#### category.csv
+
 ![image](https://user-images.githubusercontent.com/117343047/227391297-f64c7dc7-8bbc-4b01-9065-a90dce0e9baa.png)
 
-subcategory.csv
+#### subcategory.csv
+
 ![image](https://user-images.githubusercontent.com/117343047/227391347-edd0b90a-a8d7-4fbc-b8d2-436800f9c694.png)
 
-contacts.csv
+#### contacts.csv
+
 ![image](https://user-images.githubusercontent.com/117343047/227391412-11ad7119-736d-4a31-8a47-c2ade0b9cf6b.png)
 
-campaign.csv
+#### campaign.csv
+
 ![image](https://user-images.githubusercontent.com/117343047/227391449-f5e4af41-f620-4e2a-bee0-84cd9f5061ac.png)
 
 
