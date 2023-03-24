@@ -1,5 +1,7 @@
 # Crowdfunding_ETL
 
+![pexels-christina-morillo-1181345_720](https://user-images.githubusercontent.com/117343047/227390553-8aff6e4a-500c-440c-8738-dfdbdc5be026.jpg)
+
 ## Backgroud
 For this project, the objective is to build an ETL pipeline using Python and Pandas. The data is extracted from *xlsx* files, cleaned, and then transfered into a *csv* file. After, the *csv files are formed an ERD chart is created to show the relational databases and table schemas are created. Finally, the *csv files are uploaded into a Postgres database using SQL. 
   
